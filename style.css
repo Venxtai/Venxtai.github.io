@@ -10,7 +10,12 @@ h1 {
 h2 {
             color: #FF7F50 ;
         }  
-#paragraph {
-            background-color: yellow;
-        }
 
+
+#paragraph-1 {
+            background: rgb(235, 235, 5);
+            float: right;
+            width: 30%;
+            margin-left: 10px;
+                    
+            }
