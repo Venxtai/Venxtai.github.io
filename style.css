@@ -12,10 +12,11 @@ h2 {
         }  
 
 
-#paragraph-1 {
-            background: rgb(235, 235, 5);
-            float: right;
-            width: 30%;
-            margin-left: 10px;
-                    
-            }
+
+p {
+            color: rgb(191, 0, 255);
+        }
+        
+        #paragraph-1 {
+            background-color: yellow;
+        }
