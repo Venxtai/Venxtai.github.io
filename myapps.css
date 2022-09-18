@@ -1,0 +1,32 @@
+body {background-color: #FFF8DC;}
+
+h2 {
+            color: #000000;
+            position: relative;
+            left: 330px;
+	    
+	}  
+
+  
+
+
+
+p {
+            color: #000000;
+            font-size: 20px;
+            position: relative;
+	    right: 50px;
+	    width: 600px;
+	}
+
+div {
+  width: 550px;
+  height: 200px;
+  border: 15px solid grey;
+  padding: 100px;
+  margin: 50px;
+  position: relative;
+  right: 40px;
+  bottom: 20px;
+
+}        

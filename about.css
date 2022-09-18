@@ -1,0 +1,40 @@
+body {
+	
+ 	background-image: url("background.jpg");
+	background-color: #FFF8DC;
+	
+	}
+  
+
+  
+
+
+
+h2 {
+            color: #F8F8FF;
+            position: relative;
+            left: 340px;
+	    
+	}  
+
+
+
+p {
+            color: #F8F8FF;
+            font-size: 20px;
+            position: relative;
+	    right: 20px;
+	    width: 600px;
+	}
+        
+        
+div {
+  
+  padding: 100px;
+  margin: 50px;
+  position: relative;
+  right: 40px;
+  bottom: 20px;
+
+}        
+  
